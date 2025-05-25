@@ -23,5 +23,3 @@ A simple yet effective tool designed for social media content creators. It helps
 Check out the live version here:  
 👉 [https://chimerical-truffle-18a36f.netlify.app](https://chimerical-truffle-18a36f.netlify.app)
 
-## 📁 Project Structure
-
